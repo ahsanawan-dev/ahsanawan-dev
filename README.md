@@ -3,6 +3,7 @@
 
 ### 🌐 Aspiring Full-Stack Web Developer
 
+
 Welcome to my GitHub profile!
 
 I'm a passionate web development student with a strong interest in creating modern, responsive, and interactive digital experiences.
@@ -60,15 +61,35 @@ https://github.com/ahsanawan-dev/3d-portfolio
 
 **Technologies:** HTML, CSS, JavaScript
 
+### 🏎️ VELORA Motors — Luxury Car Showroom
+
+A premium, responsive and interactive luxury car showroom website featuring real automotive photography and a cinematic black-and-gold interface.
+
+- 5 premium performance cars
+- Front, side, rear, interior and wheel views
+- Interactive JavaScript image gallery
+- Fullscreen car gallery
+- Responsive design for desktop, tablet and mobile
+- Premium black-and-gold UI
+
+**Live Website:**
+
+https://ahsanawan-dev.github.io/velora-car-showroom/
+
+**Source Code:**
+
+https://github.com/ahsanawan-dev/velora-car-showroom
+
+**Technologies:** HTML, CSS, JavaScript
+
 ---
 
 ## 🏗️ Upcoming Projects
 
 I'm planning to build:
 
-1. 3D Luxury Car Showroom
-2. Premium Coffee Shop Website
-3. Full-Stack E-Commerce Application
+1. Premium Coffee Shop Website
+2. Full-Stack E-Commerce Application
 
 These projects will help me practice frontend development, 3D interactions, PHP, databases, and full-stack workflows.
 
