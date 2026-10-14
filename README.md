@@ -63,6 +63,9 @@ https://github.com/ahsanawan-dev/3d-portfolio
 
 ### 🏎️ VELORA Motors — Luxury Car Showroom
 
+<img width="1898" height="910" alt="VELORA Motors Luxury Car Showroom Preview" src="https://github.com/user-attachments/assets/a09671b4-55e4-46ce-9465-2f7ea0a0cdc2" />
+
+
 A premium, responsive and interactive luxury car showroom website featuring real automotive photography and a cinematic black-and-gold interface.
 
 - 5 premium performance cars
