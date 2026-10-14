@@ -1,14 +1,15 @@
 
-# Hi there! 👋 I'm Muhammad Ahsan Awan
+<div align="center">
+
+# Hi, I'm Muhammad Ahsan Awan 👋
 
 ### 🌐 Aspiring Full-Stack Web Developer
 
+I build **modern, responsive, and interactive web experiences** using HTML, CSS, and JavaScript, while expanding my skills in **PHP and MySQL**.
 
-Welcome to my GitHub profile!
+Focused on **clean UI, practical projects, problem-solving, and continuous learning**.
 
-I'm a passionate web development student with a strong interest in creating modern, responsive, and interactive digital experiences.
-
-I enjoy learning new technologies, solving problems, and turning creative ideas into functional websites.
+</div>
 
 ---
 
