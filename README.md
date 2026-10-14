@@ -150,11 +150,15 @@ These projects will help me practice frontend development, 3D interactions, PHP,
 
 ---
 
-### 💡 My Philosophy
+<div align="center">
 
-"Keep learning. Keep building. Keep improving."
+### 💡 Developer Mindset
 
-Thanks for visiting my profile!
+**Keep learning. Keep building. Keep improving.**
+
+Thanks for visiting my GitHub profile and exploring my work.
 
 **Muhammad Ahsan Awan**
+
+</div>
 
