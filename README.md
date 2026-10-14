@@ -15,13 +15,11 @@ Focused on **clean UI, practical projects, problem-solving, and continuous learn
 
 ## 🚀 About Me
 
-- 💻 Currently building web development projects
-- 🎨 Interested in modern UI/UX and 3D web design
+- 💻 Building modern, responsive, and interactive web projects
+- 🎨 Interested in UI/UX, 3D web design, and creative frontend experiences
 - 🌱 Learning HTML, CSS, JavaScript, PHP, and MySQL
-- 🔧 Practicing Git, GitHub, and deployment workflows
-- 🎯 Focused on improving my full-stack development skills
-- 🌍 Aspiring to contribute to international software projects
-- 📚 Always learning and improving
+- 🔧 Practicing Git, GitHub, deployment, and real-world development workflows
+- 🎯 Working toward becoming a professional Full-Stack Web Developer
 
 ---
 
