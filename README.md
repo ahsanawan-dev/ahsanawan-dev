@@ -140,11 +140,14 @@ These projects will help me practice frontend development, 3D interactions, PHP,
 
 ## 🔗 Connect With Me
 
-**Portfolio Website:**
-https://ahsanawan-dev.github.io/3d-portfolio/
-
-**GitHub Profile:**
-https://github.com/ahsanawan-dev
+<p align="left">
+  <a href="https://ahsanawan-dev.github.io/3d-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
+  </a>
+  <a href="https://github.com/ahsanawan-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+</p>
 
 ---
 
