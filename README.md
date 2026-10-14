@@ -129,6 +129,14 @@ These projects will help me practice frontend development, 3D interactions, PHP,
 - Grow into a professional software developer
 
 ---
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsanawan-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Muhammad Ahsan Awan GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanawan-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ## 🔗 Connect With Me
 
