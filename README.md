@@ -41,6 +41,15 @@ I enjoy learning new technologies, solving problems, and turning creative ideas 
 
 ### 💎 Interactive 3D Developer Portfolio
 
+<a href="https://ahsanawan-dev.github.io/3d-portfolio/" target="_blank">
+  <img
+    src="https://github.com/user-attachments/assets/55eaa6d6-077b-443c-821a-d0cfb36ed0a4"
+    alt="Interactive 3D Developer Portfolio Preview"
+    width="100%"
+  />
+</a>
+
+
 A modern personal portfolio featuring:
 
 - Rotating CSS 3D cube
