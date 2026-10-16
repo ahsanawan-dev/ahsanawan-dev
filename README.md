@@ -110,33 +110,40 @@ A premium, responsive and interactive luxury car showroom website featuring real
 
 ## 🏗️ Upcoming Projects
 
-I'm planning to build:
+I'm currently planning and building projects that will strengthen my frontend and full-stack development skills:
 
-1. Premium Coffee Shop Website
-2. Full-Stack E-Commerce Application
+- ☕ **Premium Coffee Shop Website** — modern responsive UI, product showcase, menu sections, animations, and mobile-first design
+- 🛒 **Full-Stack E-Commerce Application** — product catalog, shopping cart, authentication, PHP backend, and MySQL database
 
-These projects will help me practice frontend development, 3D interactions, PHP, databases, and full-stack workflows.
+These projects will help me improve my skills in **frontend development, JavaScript interactivity, PHP, MySQL, responsive design, and real-world development workflows**.
 
 ---
 
 ## 🎯 My Development Goals
 
-- Strengthen my JavaScript fundamentals
+- Strengthen my JavaScript fundamentals and problem-solving skills
 - Learn backend development with PHP and MySQL
-- Build complete real-world applications
-- Write clean, maintainable, and accessible code
+- Build complete real-world full-stack applications
+- Improve responsive UI/UX and accessibility practices
+- Write clean, maintainable, and scalable code
 - Contribute to open-source projects
-- Improve my technical communication skills
-- Grow into a professional software developer
+- Improve Git, GitHub, and deployment workflows
+- Grow into a professional Full-Stack Web Developer
 
 ---
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahsanawan-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Muhammad Ahsan Awan GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanawan-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ahsanawan-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Muhammad Ahsan Awan GitHub Stats"
+    width="49%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanawan-dev&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Muhammad Ahsan Awan Top Languages"
+    width="42%"
+  />
 </p>
 
 ## 🔗 Connect With Me
