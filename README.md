@@ -63,13 +63,14 @@ A modern personal portfolio featuring:
 - Modern dark UI and glassmorphism
 - Smooth scrolling animations
 
-**Live Website:**
-
-https://ahsanawan-dev.github.io/3d-portfolio/
-
-**Source Code:**
-
-https://github.com/ahsanawan-dev/3d-portfolio
+<p>
+  <a href="https://ahsanawan-dev.github.io/3d-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="3D Portfolio Live Demo" />
+  </a>
+  <a href="https://github.com/ahsanawan-dev/3d-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="3D Portfolio Source Code" />
+  </a>
+</p>
 
 **Technologies:** HTML, CSS, JavaScript
 
@@ -94,13 +95,14 @@ A premium, responsive and interactive luxury car showroom website featuring real
 - Responsive design for desktop, tablet and mobile
 - Premium black-and-gold UI
 
-**Live Website:**
-
-https://ahsanawan-dev.github.io/velora-car-showroom/
-
-**Source Code:**
-
-https://github.com/ahsanawan-dev/velora-car-showroom
+<p>
+  <a href="https://ahsanawan-dev.github.io/velora-car-showroom/" target="_blank">
+    <img src="https://img.shields.io/badge/VELORA-Live_Showroom-C9A66B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="VELORA Live Showroom" />
+  </a>
+  <a href="https://github.com/ahsanawan-dev/velora-car-showroom" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="VELORA Source Code" />
+  </a>
+</p>
 
 **Technologies:** HTML, CSS, JavaScript
 
