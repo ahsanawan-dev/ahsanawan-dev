@@ -41,7 +41,7 @@ Focused on **clean UI, practical projects, problem-solving, and continuous learn
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 ### 💎 Interactive 3D Developer Portfolio
 
@@ -52,7 +52,6 @@ Focused on **clean UI, practical projects, problem-solving, and continuous learn
     width="100%"
   />
 </a>
-
 
 A modern personal portfolio featuring:
 
@@ -74,7 +73,9 @@ https://github.com/ahsanawan-dev/3d-portfolio
 
 **Technologies:** HTML, CSS, JavaScript
 
-### 🏎️ VELORA Motors — Luxury Car Showroom
+---
+
+### 🚗 VELORA Motors — Luxury Car Showroom
 
 <a href="https://ahsanawan-dev.github.io/velora-car-showroom/" target="_blank">
   <img
@@ -83,7 +84,6 @@ https://github.com/ahsanawan-dev/3d-portfolio
     width="100%"
   />
 </a>
-
 
 A premium, responsive and interactive luxury car showroom website featuring real automotive photography and a cinematic black-and-gold interface.
 
