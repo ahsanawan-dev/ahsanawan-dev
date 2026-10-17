@@ -4,7 +4,7 @@
 
 I build interactive websites with **HTML, CSS and JavaScript**. I'm a Computer Science learner turning ideas into working projects and developing my backend skills with PHP and MySQL.
 
-**[Explore my portfolio](https://ahsanawan-dev.github.io/3d-portfolio/)** · [GitHub repositories](https://github.com/ahsanawan-dev?tab=repositories)
+**[Try my PHP + MySQL showroom](https://velora-ahsan.great-site.net/manager/public/)** · **[Explore my portfolio](https://ahsanawan-dev.github.io/3d-portfolio/)** · [GitHub repositories](https://github.com/ahsanawan-dev?tab=repositories)
 
 ## Selected work
 
@@ -14,13 +14,13 @@ Two web projects with live demos, source code, and practical JavaScript interact
 
 [![VELORA Motors homepage with its featured car](https://raw.githubusercontent.com/ahsanawan-dev/velora-car-showroom/main/docs/preview.jpg)](https://ahsanawan-dev.github.io/velora-car-showroom/)
 
-A fictional automotive showroom with five cars, category filters, and a fullscreen photo gallery.
+A fictional automotive showroom with a hosted PHP + MySQL collection, admin car management, draft/publish controls, and a stored enquiry workflow. The original frontend includes a fullscreen photo gallery.
 
-- **Built with:** HTML, CSS and JavaScript.
+- **Built with:** HTML, CSS, JavaScript, PHP and MySQL.
 - **Implementation:** coordinated car and angle selection, dynamic photo updates, and keyboard controls in the gallery.
-- **Explore:** [Live showroom](https://ahsanawan-dev.github.io/velora-car-showroom/) · [Code & setup guide](https://github.com/ahsanawan-dev/velora-car-showroom)
+- **Explore:** [PHP + MySQL demo](https://velora-ahsan.great-site.net/manager/public/) · [Frontend gallery](https://ahsanawan-dev.github.io/velora-car-showroom/) · [Code & setup guide](https://github.com/ahsanawan-dev/velora-car-showroom)
 
-**PHP + MySQL extension:** [Showroom Manager](https://github.com/ahsanawan-dev/velora-car-showroom/tree/main/manager) adds admin login, car management, draft/publish controls, and an enquiry inbox. Run it locally with XAMPP; the backend is not hosted on GitHub Pages.
+**PHP + MySQL extension:** [Showroom Manager](https://github.com/ahsanawan-dev/velora-car-showroom/tree/main/manager) adds admin login, car management, draft/publish controls, and an enquiry inbox. The backend demo is hosted separately over HTTPS; GitHub Pages serves the original frontend. Use fictional details when testing enquiries. Admin access stays private.
 
 ### 02 — Interactive Developer Portfolio
 
@@ -36,13 +36,13 @@ My personal portfolio with an animated CSS 3D cube, project previews, and respon
 
 | In my published projects | Developing next |
 | --- | --- |
-| HTML5, CSS3, JavaScript; PHP and MySQL manager | Hosted full-stack applications |
+| HTML5, CSS3, JavaScript; PHP and MySQL manager | Automated deployment workflows |
 | DOM interactions, CSS animation, page layouts | Image uploads and email workflows |
 | Git, GitHub, GitHub Pages; PDO and session-based admin login | Deployment and broader accessibility testing |
 
 ## Next milestone
 
-Continue improving the **PHP and MySQL Showroom Manager**, prepare a hosted backend demo, and strengthen accessibility, debugging, and deployment skills through practical changes.
+Continue improving the **PHP and MySQL Showroom Manager**, strengthen accessibility, debugging, and deployment skills through practical changes.
 
 ## Connect
 
