@@ -1,60 +1,48 @@
-<div align="center">
+<p align="center">
+  <img src="assets/profile-header.svg" alt="Muhammad Ahsan Awan — Web Developer. HTML, CSS and JavaScript." width="1200">
+</p>
 
-# Muhammad Ahsan Awan
+I build interactive websites with **HTML, CSS and JavaScript**. I'm a Computer Science learner turning ideas into working projects and developing my backend skills with PHP and MySQL.
 
-### Web Developer · HTML, CSS & JavaScript
+**[Explore my portfolio](https://ahsanawan-dev.github.io/3d-portfolio/)** · [GitHub repositories](https://github.com/ahsanawan-dev?tab=repositories)
 
-Building interactive websites and developing my full-stack skills with PHP and MySQL.
+## Selected work
 
-[View Portfolio](https://ahsanawan-dev.github.io/3d-portfolio/) · [Explore VELORA](https://ahsanawan-dev.github.io/velora-car-showroom/) · [Browse Repositories](https://github.com/ahsanawan-dev?tab=repositories)
+Two web projects with live demos, source code, and practical JavaScript interactions.
 
-</div>
+### 01 — VELORA Motors
 
----
+[![VELORA Motors homepage with its featured car](https://raw.githubusercontent.com/ahsanawan-dev/velora-car-showroom/main/docs/preview.jpg)](https://ahsanawan-dev.github.io/velora-car-showroom/)
 
-## About
+A fictional automotive showroom with five cars, category filters, and a fullscreen photo gallery.
 
-I'm a Computer Science learner building practical web projects. My current work focuses on frontend interfaces, JavaScript interactions, and CSS animation.
+- **Built with:** HTML, CSS and JavaScript.
+- **Implementation:** coordinated car and angle selection, dynamic photo updates, and keyboard controls in the gallery.
+- **Explore:** [Live showroom](https://ahsanawan-dev.github.io/velora-car-showroom/) · [Code & setup guide](https://github.com/ahsanawan-dev/velora-car-showroom)
 
-I've studied PHP and MySQL, and my next milestone is to demonstrate them in a database-backed application. I am interested in learning with other developers and collaborating on useful web projects.
+### 02 — Interactive Developer Portfolio
 
-## Skills in practice
+[![Muhammad Ahsan Awan's developer portfolio and CSS cube](https://raw.githubusercontent.com/ahsanawan-dev/3d-portfolio/main/docs/preview.jpg)](https://ahsanawan-dev.github.io/3d-portfolio/)
 
-| Area | Technologies and focus |
+My personal portfolio with an animated CSS 3D cube, project previews, and responsive navigation.
+
+- **Built with:** HTML, CSS and JavaScript.
+- **Implementation:** CSS transforms, pointer interactions, reduced-motion support, and links to working projects.
+- **Explore:** [Live portfolio](https://ahsanawan-dev.github.io/3d-portfolio/) · [Code & setup guide](https://github.com/ahsanawan-dev/3d-portfolio)
+
+## Toolkit
+
+| In my published projects | Developing next |
 | --- | --- |
-| Frontend projects | HTML5, CSS3, JavaScript, DOM manipulation |
-| Interface development | CSS layouts, CSS 3D transforms, interactive galleries |
-| Development workflow | Git, GitHub, GitHub Pages |
-| Backend studies | PHP, MySQL — applying these in upcoming projects |
+| HTML5, CSS3, JavaScript | PHP and MySQL |
+| DOM interactions, CSS animation, page layouts | Database-backed applications |
+| Git, GitHub, GitHub Pages | Backend validation and admin interfaces |
 
-## Selected projects
+## Next milestone
 
-### VELORA Motors
-
-A fictional luxury car showroom built with HTML, CSS, and JavaScript. It presents five cars through a category filter, an angle selector, and a fullscreen photo gallery.
-
-[![VELORA Motors project preview](https://github.com/user-attachments/assets/a09671b4-55e4-46ce-9465-2f7ea0a0cdc2)](https://ahsanawan-dev.github.io/velora-car-showroom/)
-
-**Implementation focus:** coordinating car and angle selection, updating the interface with JavaScript, and providing keyboard controls for the gallery.
-
-[Live demo](https://ahsanawan-dev.github.io/velora-car-showroom/) · [Source code and documentation](https://github.com/ahsanawan-dev/velora-car-showroom)
-
-### Interactive Developer Portfolio
-
-My personal portfolio, built with HTML, CSS, and JavaScript, featuring an animated CSS 3D cube, project cards, and a mobile navigation menu.
-
-[![Interactive developer portfolio preview](https://github.com/user-attachments/assets/55eaa6d6-077b-443c-821a-d0cfb36ed0a4)](https://ahsanawan-dev.github.io/3d-portfolio/)
-
-**Implementation focus:** CSS transforms and animation, JavaScript interactions, and presenting projects with clear links to their source code.
-
-[Live demo](https://ahsanawan-dev.github.io/3d-portfolio/) · [Source code and documentation](https://github.com/ahsanawan-dev/3d-portfolio)
-
-## Current direction
-
-- Improve and test the existing projects across screen sizes and input methods.
-- Build a PHP and MySQL application with an admin interface and stored data.
-- Strengthen debugging, accessibility, and Git workflows through practical changes.
+Extend my frontend experience into a **PHP and MySQL application** with editable records and stored enquiries. Along the way, I'm improving accessibility, debugging, and Git workflows through practical changes.
 
 ## Connect
 
-Explore my [portfolio](https://ahsanawan-dev.github.io/3d-portfolio/) or browse the repositories below. For a project-specific question or suggestion, please open an issue in the relevant repository.
+I'm interested in collaborating on useful web projects and learning with other developers. Explore my [portfolio](https://ahsanawan-dev.github.io/3d-portfolio/); for a project question or suggestion, [open an issue in the relevant repository](https://github.com/ahsanawan-dev?tab=repositories).
+

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Ahsan Awan — Web Developer</title>
+  <desc id="desc">Interactive websites with HTML, CSS and JavaScript. A dark navy banner with violet and cyan geometric accents.</desc>
+  <rect width="1200" height="320" rx="18" fill="#0e1322"/>
+  <path d="M64 64h54" stroke="#9a91ff" stroke-width="4"/>
+  <text x="136" y="70" fill="#b5bed5" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3">WEB DEVELOPMENT · SELECTED WORK</text>
+  <text x="64" y="154" fill="#f4f6fc" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.5">Muhammad Ahsan Awan</text>
+  <text x="67" y="204" fill="#c6cee3" font-family="Arial, Helvetica, sans-serif" font-size="27">Web Developer</text>
+  <text x="67" y="267" fill="#a0abc5" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2">HTML  /  CSS  /  JAVASCRIPT</text>
+  <g fill="none" stroke-linejoin="round">
+    <path d="M958 86l112 65v127l-112-65z" stroke="#38465f" stroke-width="2"/>
+    <path d="M958 86l-112 65v127l112-65 112 65" stroke="#38465f" stroke-width="2"/>
+    <path d="M846 151l112 65 112-65M958 216v-130" stroke="#38465f" stroke-width="2"/>
+    <path d="M902 156l-27 24 27 24M1014 156l27 24-27 24" stroke="#9a91ff" stroke-width="5" stroke-linecap="round"/>
+    <path d="M973 153l-29 57" stroke="#73d6e5" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <rect x="64" y="304" width="1072" height="1" fill="#283148"/>
+</svg>
